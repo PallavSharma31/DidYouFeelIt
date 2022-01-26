@@ -18,6 +18,7 @@ import java.nio.charset.Charset;
 
 public final class Utils {
 
+    public static int TIME_PASS=5;
     /** Tag for the log messages */
     public static final String LOG_TAG = Utils.class.getSimpleName();
 

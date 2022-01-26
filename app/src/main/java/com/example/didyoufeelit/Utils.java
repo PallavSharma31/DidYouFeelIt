@@ -19,6 +19,7 @@ import java.nio.charset.Charset;
 public final class Utils {
 
     public static int TIME_PASS=5;
+    this is written by me intentionally to learn git
     /** Tag for the log messages */
     public static final String LOG_TAG = Utils.class.getSimpleName();
 
